@@ -1,7 +1,7 @@
 # Codecademy Computer Science 
 `Details of the Computer Science projects and what was learned`
 
-**Important Note:** Portfolio projects will have it's own repository 
+**Important Note:** Portfolio projects referenced will have it's own repository linked instead of file itself
 
 ## Intro to Programming
 
