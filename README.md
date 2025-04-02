@@ -20,27 +20,22 @@ Learned how to work with multiple variables to perform concatenation and calcula
 <br><br/>
 - **Magic 8-Ball - [magic8.py](https://github.com/lev2pr0/codecademy-computerscience-projects/blob/main/magic8.py)**
   
-`Write a magic8.py Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.`
-<br><br/>
-`We’ll be using the following 9 possible answers for our Magic 8-Ball:`
-<br><br/>
-`Yes - definitely`
+`Write a magic8.py Python program that can answer any “Yes” or “No” question with a different fortune each time it executes. We’ll be using the following 9 possible answers for our Magic 8-Ball:`
 
-`It is decidedly so`
+```python
+# List of magic 8 ball answers
+magic8_response = ["Yes - definitely",
+            "It is decidedly so",
+            "Without a doubt",
+            "Reply hazy, try again",
+            "Ask again later",
+            "Better not tell you now",
+            "My sources say no",
+            "Outlook not so good",
+            "Very doubtful"]
+```
+*"To reflect on learning when project complete"*
 
-`Without a doubt`
-
-`Reply hazy, try again`
-
-`Ask again later`
-
-`Better not tell you now`
-
-`My sources say no`
-
-`Outlook not so good`
-
-`Very doubtful`
 <br><br/>
 ## Intro to Data Structures
 
