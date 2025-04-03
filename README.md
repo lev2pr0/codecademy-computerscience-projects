@@ -23,7 +23,7 @@
 `Write a magic8.py Python program that can answer any “Yes” or “No” question with a different fortune each time it executes. We’ll be using the following 9 possible answers for our Magic 8-Ball:`
 
 ```python
-# List of magic 8 ball answers
+# List of Magic 8 ball's answers
 magic8_response = ["Yes - definitely",
             "It is decidedly so",
             "Without a doubt",
