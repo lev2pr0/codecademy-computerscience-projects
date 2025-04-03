@@ -41,9 +41,39 @@ magic8_response = ["Yes - definitely",
 `In this project, you’ll build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal’s Shippers.`
 `Sal’s Shippers has several different options for a customer to ship their package:`
 
-` - Ground Shipping, which is a small flat charge plus a rate based on the weight of your package.`
-` - Ground Shipping Premium, which is a much higher flat charge, but you aren’t charged for weight.`
-` - Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.`
+```python
+# Ground shipping cost calculation
+def calculate_ground_shipping(weight):
+    if weight <= 2:
+        return weight * 1.50 + 20
+    elif weight <= 6:
+        return weight * 3.00 + 20
+    elif weight <= 10:
+        return weight * 4.00 + 20
+    else:
+        return weight * 4.75 + 20
+
+if weight > 0:
+    ground_shipping_cost = calculate_ground_shipping(weight)
+    print("Ground Shipping $", ground_shipping_cost)
+else:
+    ground_shipping_cost = float('inf')  # Set to infinity to exclude from comparison
+
+# Ground shipping premium cost calculation
+ground_premium_cost = 125.00
+print("Ground Shipping Premium $", ground_premium_cost)
+
+# Drone shipping cost calculation
+def calculate_drone_shipping(weight):
+    if weight <= 2:
+        return weight * 4.50
+    elif weight <= 6:
+        return weight * 9.00
+    elif weight <= 10:
+        return weight * 12.00
+    else:
+        return weight * 14.25
+```
 
 This project was more practice with ```if/elif/else``` statements. I learned how to use ```def``` to define function for efficiency, ```weight = float(input("Enter the package weight: "))``` for user inputs, and always including error handling for invalid entries.
 <br><br/>
