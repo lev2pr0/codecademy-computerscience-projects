@@ -34,7 +34,18 @@ magic8_response = ["Yes - definitely",
             "Outlook not so good",
             "Very doubtful"]
 ```
-*I learned how to use ```import random``` module and the difference between ```random.randint()``` (random integer from specified range) and ```random.choice()``` (random element within a sequence like list, tuple, or string) functions. AI's code review showed how I can write readable code using f-string in this project. Lastly, the codecademy version I had to save to complete assessment had me use ```if/elif``` statements in place of variable with stored strings to use ```random.randint()``` to randomize based on number generated; this version of project is [magic8_v2](https://github.com/lev2pr0/codecademy-computerscience-projects/blob/main/magic8_v2.py)*
+*I learned how to use ```import random``` module and the difference between ```random.randint()``` (random integer from specified range) and ```random.choice()``` (random element within a sequence like list, tuple, or string) functions. AI's code review showed how I can write readable code using f-string in this project. Lastly, the codecademy version I had to save to complete assessment had me use ```if/elif/else``` statements in place of variable with stored strings to use ```random.randint()``` to randomize based on number generated; this version of project is [magic8_v2](https://github.com/lev2pr0/codecademy-computerscience-projects/blob/main/magic8_v2.py)*
+<br><br/>
+- **Sal's Shipping - [shipping.py](https://github.com/lev2pr0/codecademy-computerscience-projects/blob/main/shipping.py)**
+
+`In this project, you’ll build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal’s Shippers.`
+`Sal’s Shippers has several different options for a customer to ship their package:`
+
+` - Ground Shipping, which is a small flat charge plus a rate based on the weight of your package.`
+` - Ground Shipping Premium, which is a much higher flat charge, but you aren’t charged for weight.`
+` - Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.`
+
+This project was more practice with ```if/elif/else``` statements. I learned how to use ```def``` to define function for efficiency, ```weight = float(input("Enter the package weight: "))``` for user inputs, and always including error handling for invalid entries.
 <br><br/>
 ## Intro to Data Structures
 
