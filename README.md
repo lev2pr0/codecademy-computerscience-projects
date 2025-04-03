@@ -34,7 +34,7 @@ magic8_response = ["Yes - definitely",
             "Outlook not so good",
             "Very doubtful"]
 ```
-*"To reflect on learning when project complete"*
+*I learned how to use ```import random``` module and the difference between ```random.randint()``` (random integer from specified range) and ```random.choice()``` (random element within a sequence like list, tuple, or string) functions. Additionally, AI's code review showed how I can write readable code using f-string in this project.*
 
 <br><br/>
 ## Intro to Data Structures
