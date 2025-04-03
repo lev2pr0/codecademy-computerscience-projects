@@ -34,8 +34,7 @@ magic8_response = ["Yes - definitely",
             "Outlook not so good",
             "Very doubtful"]
 ```
-*I learned how to use ```import random``` module and the difference between ```random.randint()``` (random integer from specified range) and ```random.choice()``` (random element within a sequence like list, tuple, or string) functions. Additionally, AI's code review showed how I can write readable code using f-string in this project.*
-
+*I learned how to use ```import random``` module and the difference between ```random.randint()``` (random integer from specified range) and ```random.choice()``` (random element within a sequence like list, tuple, or string) functions. AI's code review showed how I can write readable code using f-string in this project. Lastly, the codecademy version I had to save to complete assessment had me use ```if/elif``` statements in place of variable with stored strings to use ```random.randint()``` to randomize based on number generated; this version of project is [magic8_v2](https://github.com/lev2pr0/codecademy-computerscience-projects/blob/main/magic8_v2.py)*
 <br><br/>
 ## Intro to Data Structures
 
