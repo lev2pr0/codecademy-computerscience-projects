@@ -73,6 +73,12 @@ def calculate_drone_shipping(weight):
         return weight * 12.00
     else:
         return weight * 14.25
+
+if weight > 0:
+    drone_shipping_cost = calculate_drone_shipping(weight)
+    print("Drone Shipping $", drone_shipping_cost)
+else:
+    drone_shipping_cost = float('inf')  # Set to infinity to exclude from comparison
 ```
 
 This project was more practice with ```if/elif/else``` statements. I learned how to use ```def``` to define function for efficiency, ```weight = float(input("Enter the package weight: "))``` for user inputs, and always including error handling for invalid entries.
