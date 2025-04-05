@@ -83,6 +83,10 @@ else:
 
 This project was more practice with ```if/elif/else``` statements. I learned how to use ```def``` to define function for efficiency, ```weight = float(input("Enter the package weight: "))``` for user inputs, and always including error handling for invalid entries.
 <br><br/>
+
+### Fundamentals of Python
+
+<br><br/>
 ## Intro to Data Structures
 
 <br><br/>
