@@ -81,7 +81,7 @@ else:
     drone_shipping_cost = float('inf')  # Set to infinity to exclude from comparison
 ```
 
-This project was more practice with ```if/elif/else``` statements. I learned how to use ```def``` to define function for efficiency, ```weight = float(input("Enter the package weight: "))``` for user inputs, and always including error handling for invalid entries.
+This project was more practice with ```if/elif/else``` statements. I learned how to use ```def``` to define function for efficiency, ```weight = float(input("Enter the package weight: "))``` for user inputs, and always including error handling for invalid entries using ```try``` statement.
 <br><br/>
 
 ### Fundamentals of Python
