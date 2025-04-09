@@ -95,8 +95,9 @@ This project was more practice with ```if/elif/else``` statements. I learned how
 `You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.`
 
 This project was all about practicing what was learned about working lists and two-dimensional lists. I manipulated lists using ```.append()``` to add and ```.remove()``` to remove from list. To conclude project, I combined both ```last_semester_gradebook``` and manipulated ```gradebook``` lists as the ```full_gradebook```. 
-
 <br><br/>
+
+
 ## Intro to Data Structures
 
 <br><br/>
