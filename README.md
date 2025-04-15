@@ -1,3 +1,6 @@
+**Archive Note:** I decided to transition to Boot.dev earlier than planned. While Codecademy is a great platform, I realized it wasn’t quite the right fit since I’m not a complete beginner. After getting expert advice, I’ve come to understand that building real projects will have a greater impact on my growth than solely focusing on online computer science theory—especially given my background. Check out [My Github Profile](https://github.com/lev2pr0) for next my next projects.
+
+----
 # Codecademy Computer Science 
 `Details of the Computer Science projects and what was learned`
 
